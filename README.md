@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first attempt at creating an html recipe website, I'm going with a full sunday roast, with pages dedicated to each step of the process.  
